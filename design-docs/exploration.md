@@ -255,7 +255,7 @@ The decision group will gather inputs from various teams, automated metrics and 
 - It is hard to ensure that the decisions will be transparent. Ultimately, the Project would have to trust the decision group to do The Right Thing™.
 
 Some additional notes/considerations:
-- Should the pay of a given person be used to determine whether we select them or not?
+- Should the "cost" of paying a given person (based on the determined reward amount) be used to determine whether we select them or not?
   - **Pros**: We could get more maintainers for a given amount of money.
   - **Cons**: It is not very fair to people e.g. living in more expensive countries, which would get a higher pay if we used an algorithm for it.
   - A way to avoid choosing based on pay is to simply order maintainers by some ranking/vote and then choose from the top until money runs out.
