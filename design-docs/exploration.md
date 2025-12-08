@@ -2,7 +2,7 @@
 
 The Rust Foundation is preparing a [Rust Foundation Maintainer Fund](https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/) (RFMF) to financially support maintainers working on Rust. It has asked the Rust Project, through the Leadership Council, to help it prepare a strategy to decide how to get money from the fund to Rust maintainers.
 
-This exploration document is a step towards that. It presents questions that we will eventually have to answer to provide a set of guidelines that will be used by the Rust Foundation to direct money from RFMF towards Rust Project maintainers. **It is meant to be a living document that is updated continously while we gather ideas**. We welcome contributions to it!
+This exploration document is a step towards that. It presents questions that we will eventually have to answer to provide a set of guidelines that will be used by the Rust Foundation to direct money from RFMF towards Rust Project maintainers. **It is meant to be a living document that is updated continuously while we gather ideas**. We welcome contributions to it!
 
 This document primarily focuses on how to spend money of the Rust Foundation Maintainer Fund *specifically*, as it is timely; it wants to start in early 2026. This means that we have to work with constraints that are determined by the nature of this fund. We will attempt to justify all such cases in the [FAQ](#FAQ). Eventually, we could create a more generalized design that will be used to decide how to spend funds for maintainers that also come from other sources. But this is an explicit non-goal of this document.
 
@@ -127,7 +127,7 @@ We could use a "reverse model", where we let the maintainers themselves submit p
 - Writing a catchy proposal for general maintenance work might be difficult, this might bias towards more high-profile/feature work.
 
 ## B: Maintainer role
-We should clarify what does being a funded maintainer entail. For example, we could explicitly say that being in this role:
+We should clarify what does being a funded maintainer entails. For example, we could explicitly say that being in this role:
 - Does not grant the maintainer any elevated *privileges* in the Project.
 - Does not give the maintainer priority in RFC voting.
 - Does not give the maintainer any extra weight or final say in reviews or any other decision process.
@@ -213,7 +213,7 @@ We would open a "position" for a maintainer for a specific area within the Proje
 
 **Pros**:
 - It is transparent.
-- Lets anyone enroll for a position (as long as we properly announce tha the position is available).
+- Lets anyone enroll for a position (as long as we properly announce that the position is available).
 - The statements might help us make decide who to select.
 
 **Cons**:
@@ -231,7 +231,7 @@ great maintenance work if they want to be funded by the RFMF.
 
 ### E.3: Nomination process
 
-Member of the Project could nominate candidates for consideration.
+Members of the Project could nominate candidates for consideration.
 
 **Pros**:
 - It is transparent.
@@ -241,7 +241,7 @@ Member of the Project could nominate candidates for consideration.
 Similar to open positions, but the candidates themselves could propose the work that they would like to be doing.
 
 ## F: How do we prioritize who to fund amongst candidates?
-This is possibly the hardest question of them all, because it is very likely that we will have more candidates and interested people than what we can "afford" with the Funds' money, especially while it is being bootstrapped. It will require us to determine what kinds of work in the Project are more important than others, and what maintainers we "prefer" to be funded, amongst a tight-knit set people who work with each other every day, who often know each other or are even friends.
+This is possibly the hardest question of them all, because it is very likely that we will have more candidates and interested people than what we can "afford" with the Fund's money, especially while it is being bootstrapped. It will require us to determine what kinds of work in the Project are more important than others, and what maintainers we "prefer" to be funded, amongst a tight-knit set people who work with each other every day, who often know each other or are even friends.
 
 > Note: this decision is very much relevant to [A1][A1], and answers to that question will likely heavily affect the answers to this question.
 
@@ -285,7 +285,7 @@ We could create some "algorithm" that would decide which parts of the Project ne
 We will need to pay the maintainers somehow. There are two main axes to think about here, part-time/full-time and employment/contracting/grants. As elsewhere, we could combine those approaches and use different models for different positions/maintainers.
 
 ### G1: Part-time vs full-time
-Both approaches seem to be viable (and desired) by our maintainers.
+Both approaches seem viable (and desired) by our maintainers.
 
 #### G1.1: Part-time cooperation
 **Pros**:
@@ -373,7 +373,7 @@ Whatever model we choose, we should think about providing long(er)-term support 
 
 Having a longer time commitment could also allow people that are currently employed to seriously think about quitting their current job to become a full-time Rust maintainer.
 
-In the ideal case, 1 year should probably be a minimum, but 2-3 years would be even better. However, we have to be grounded in reality, and that reality might very well be that we simply cannot afford to pay someone e.g. for more than a year (before the next round of funding comes in). So ultimately, this will depend on how much funds is RF able to secure.
+In the ideal case, 1 year should probably be a minimum, but 2-3 years would be even better. However, we have to be grounded in reality, and that reality might very well be that we simply cannot afford to pay someone e.g. for more than a year (before the next round of funding comes in). So ultimately, this will depend on how many funds RF is able to secure.
 
 What we could do as a Project is to decide whether we want to spend a given amount of money to fund e.g. two people for a year or a single person for two years.
 
@@ -394,7 +394,7 @@ We simply set a single transparent baseline amount per hour, and use that for al
 **Cons**:
 - It does not factor in the cost of living and other factors. So it might be either very favorable or very unfavorable based on where does a person live.
 
-### H.2: Fixed "levels" (e.g. junior/senior) with established job ladder
+### H.2: Fixed "levels" (e.g. junior/senior) with an established job ladder
 
 We could have clear evaluation criteria for more junior and more senior engineers, with corresponding salaries. This means that rather than negotiating specific salaries, candidates are making the case for what "level" they get hired at, based on publicly documented criteria.
 
