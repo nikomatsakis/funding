@@ -93,7 +93,7 @@ We could decide to fund more targeted work, which can be related to maintenance 
 - RFMF should provide stable and sustainable funding, which implies that it will last for some time (e.g. *at least* a year). It might be tricky to define work packages that can last throughout the whole funding, so it might require more back-and-forth between the maintainer and the decision group.
 
 #### A2.3: Fund people
-We could select a set of maintainer(s), fund them and trust them to do whatever is best for Rust. This is a model that e.g. the Python Software Foundation uses for some of their Resident Core Developers.
+We could select a set of maintainer(s), fund them and trust them to do whatever is best for Rust. This is a model that e.g. the [Python Software Foundation][psf] uses for some of their Resident Core Developers.
 
 **Pros**:
 - Gives maximum flexibility to the maintainer, and allows them to work on things that are the most important for the health of the Project, rather than being bound by predetermined work scope.
@@ -470,6 +470,7 @@ The running [FAQ][FAQ] at the end of this document should also help clarify (m)a
 This section mentions how other programming language ecosystems deal with a similar maintainer support program.
 
 ## Python Software Foundation
+[psf]: #python-software-foundation
 The PSF (Python Software Foundation) has a [Developer in Residence](https://www.python.org/psf/developersinresidence/) (DIR) program that was started in 2021.
 
 There are currently five developers in residence:
