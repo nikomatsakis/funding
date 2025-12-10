@@ -357,7 +357,7 @@ The maintainer could be officially employed, either by the Rust Foundation, or s
 **Cons**:
 - Requires a long-term/repeatable source of funding, otherwise the job stability could not be upheld. (This is the main reason why employment will not be available from RFMF at the beginning)
 - More overhead to set up for the Rust Foundation.
-- It could be problematic to hire people from certain countries.
+- It could be problematic to hire people from certain countries. This could be potentially resolved by hiring through intermediaries.
 
 #### G2.4: Let the maintainer choose
 If we are able to support multiple models, we could simply let the maintainer choose.
